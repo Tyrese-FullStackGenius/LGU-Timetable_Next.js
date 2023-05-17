@@ -70,7 +70,7 @@ Useful comment about project
 
 ```
 
-- In your new repo Copy above code and paste on the above of 1st comment in `read.md` and add your detail.
+- In your new repo Copy above code and paste on the top of 1st comment in `read.md` and add your detail.
 
 - create pull request to master branch
 
