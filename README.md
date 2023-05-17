@@ -1,3 +1,7 @@
+### <a href="https://www.lgutimetable.live/contribute"><div align="center">LGU TIMETABLE</div>
+</a>
+
+
 # <div align='center'> Contributors </div>
 
 
